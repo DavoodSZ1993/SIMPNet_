@@ -291,11 +291,11 @@ if __name__ == "__main__":
                                                                     'WS_7', 'WS_8', 'WS_9', 'WS_10', 'WS_11', 'WS_12',
                                                                     'WS_13', 'WS_14', 'WS_15', 'WS_16', 'WS_17'], help='Name of the workspaces')
     parser.add_argument('--known_environment', type=bool, default=False, help='Online planning in known environmnet')
-    parser.add_argument('--num_start_end', type=int, default=100, help="The number of start - end configurations for each workspace.")
+    parser.add_argument('--num_start_end', type=int, default=200, help="The number of start - end configurations for each workspace.")
     parser.add_argument('--config_save_path', type=str, default='/home/davood/catkin_ws/src/GNN2/src/testing/start_goal_samples', help='The path to save the generated configs')
 
     # Online planning
-    parser.add_argument('--num_sampled_start_end', type=int, default=100, help='Number of generated start-end configs. Just for testing purposes.')
+    parser.add_argument('--num_sampled_start_end', type=int, default=200, help='Number of generated start-end configs. Just for testing purposes.')
     parser.add_argument('--dof', type=int, default=6, help='Number of degrees of freedom of the robot.')
     parser.add_argument('--step_size', type=float, default=0.05, help="Step size for steering purposes.")
     parser.add_argument('--forward_path', type=list, default=[], help='Forward planned path.')
