@@ -21,4 +21,5 @@ In a catkin workspace, clone the repo with submodules within the source folder a
 ```
 cd catkin_ws/src
 git clone --recursive https://github.com/DavoodSZ1993/SIMPNet.git
+catkin build
 ```
