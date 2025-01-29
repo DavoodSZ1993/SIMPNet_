@@ -16,4 +16,9 @@ This repository is the official implementation of SIMPNet: Spatial-informed Moti
 - MoveIt! 1
 
 # Install
-In a catkin workspace, clone repo within the source folder and build the workspace.
+In a catkin workspace, clone the repo with submodules within the source folder and build the workspace.
+
+```
+cd catkin_ws/src
+git clone --recursive https://github.com/DavoodSZ1993/SIMPNet.git
+```
