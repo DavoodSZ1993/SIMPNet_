@@ -11,6 +11,7 @@ This repository is the official implementation of SIMPNet: Spatial-informed Moti
 <p>SIMPNet is a deep learning-based motion planning algorithm for robotic manipulators. It utliizes graph neural network and attention mechanism to generate informed samples within the framework of sampling-based motion planning algorithms. SIMPNet is designed to encode the kinematic and spatial strucutre of the robotic manipulator within the sampling heuristic for informed sampling. This repository contains the implementation, and evaluation scripts for SIMPNet.</p>
 
 # Prerequisites
+- Python 3.8
 - Ubuntu 20.04.6 LTS (Focal Fossa)
 - ROS Noetic
 - MoveIt! 1
@@ -22,4 +23,29 @@ In a catkin workspace, clone the repo with submodules within the source folder a
 cd catkin_ws/src
 git clone --recursive https://github.com/DavoodSZ1993/SIMPNet.git
 catkin build
+```
+
+# Training
+All the models can be trained by accessing their corresponding folder. For instance, to train the SIMPNet for the simple environments, run:
+
+```
+cd simple_env/src/SIMPNet 
+python3 main_train.py
+```
+
+# Evaluation
+All the models can be evaluated as follows:
+
+Launch UR5e manipulator for Robotiq gripper papcke
+
+```
+source ~/catkin_ws/src/setup.bash
+roslaunch ur5e_gripper_moveit_config demo.launch
+```
+
+Source and run the planners:
+
+```
+source ~/catkin_ws/src/setup.bash
+rosrun simple_env main_test_MPNN.py
 ```
