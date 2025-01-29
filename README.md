@@ -7,3 +7,5 @@
 <p><sup>2</sup>Zachry Department of Civil and Environmental Engineering, Texas A&M University, College Station, TX, USA.</p>
 
 This repository is the official implementation of SIMPNet: Spatial-informed Motion Planning Network.
+
+<p>SIMPNet is a deep learning-based motion planning algorithm for robotic manipulators. It utliizes graph neural network and attention mechanism to generate informed samples within the framework of sampling-based motion planning algorithms. SIMPNet is designed to encode the kinematic and spatial strucutre of the robotic manipulator within the sampling heuristic for informed sampling. This repository contains the implementation, and evaluation scripts for SIMPNet.</p>
