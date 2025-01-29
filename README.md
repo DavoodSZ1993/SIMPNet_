@@ -49,3 +49,15 @@ Source and run the planners:
 source ~/catkin_ws/src/setup.bash
 rosrun simple_env main_test_MPNN.py
 ```
+
+# Citation
+If you find this codebase useful in your research, please cite:
+
+```
+@article{soleymanzadeh2024simpnet,
+  title={SIMPNet: Spatial-Informed Motion Planning Network},
+  author={Soleymanzadeh, Davood and Liang, Xiao and Zheng, Minghui},
+  journal={arXiv preprint arXiv:2408.12831},
+  year={2024}
+}
+```
