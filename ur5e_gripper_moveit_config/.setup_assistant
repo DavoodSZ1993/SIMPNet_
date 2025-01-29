@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur_description
+    relative_path: urdf/ur5e_robotiq85_gripper.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur5e.srdf
+  CONFIG:
+    author_name: Sibo Tian
+    author_email: sibotian@buffalo.edu
+    generated_timestamp: 1692747564
