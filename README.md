@@ -11,5 +11,6 @@ This repository is the official implementation of SIMPNet: Spatial-informed Moti
 <p>SIMPNet is a deep learning-based motion planning algorithm for robotic manipulators. It utliizes graph neural network and attention mechanism to generate informed samples within the framework of sampling-based motion planning algorithms. SIMPNet is designed to encode the kinematic and spatial strucutre of the robotic manipulator within the sampling heuristic for informed sampling. This repository contains the implementation, and evaluation scripts for SIMPNet.</p>
 
 # Prerequisites
+- Ubuntu 20.04.6 LTS (Focal Fossa)
 - ROS Noetic
 - MoveIt! 1
