@@ -14,3 +14,6 @@ This repository is the official implementation of SIMPNet: Spatial-informed Moti
 - Ubuntu 20.04.6 LTS (Focal Fossa)
 - ROS Noetic
 - MoveIt! 1
+
+# Install
+In a catkin workspace, clone repo within the source folder and build the workspace.
