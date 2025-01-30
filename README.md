@@ -8,8 +8,10 @@
   
   
 <a href="https://zh.engr.tamu.edu/people-2/">Davood Soleymanzadeh</a>,
-<a href="https://engineering.tamu.edu/civil/profiles/liang-xiao.html">Xiao Liang</a>,
-<a href="https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html">Minghui Zheng</a>,
+<a href="https://engineering.tamu.edu/civil/profiles/liang-xiao.html">Xiao Liang</a>, and
+<a href="https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html">Minghui Zheng</a>.
+
+**Robotics and Automation Letters (RA-L) (2025)**
 
 <p align="center">
 <img width="1000" src="./assets/02. SIMPNet-Structure.svg">
