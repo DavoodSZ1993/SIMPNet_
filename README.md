@@ -68,7 +68,7 @@ This repository is released under the MIT license. See [LICENSE](LICENSE) for ad
 
 # Further Reading
 - [MPNet GitHub Repo](https://github.com/anthonysimeonov/baxter_moveit_experiments).
-- [MoveIt! Config for UR5e Manipulator with Robotiq Gripper](https://roboticscasual.com/ros-tutorial-how-to-create-a-moveit-config-for-the-ur5-and-a-gripper/)
+- [MoveIt! Config for UR5e Manipulator with Robotiq Gripper.](https://roboticscasual.com/ros-tutorial-how-to-create-a-moveit-config-for-the-ur5-and-a-gripper/)
 
 # Citation
 If you find this codebase useful in your research, please cite:
