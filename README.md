@@ -8,7 +8,7 @@
   
   
 <a href="https://zh.engr.tamu.edu/people-2/">Davood Soleymanzadeh</a>,
-<a href="https://engineering.tamu.edu/civil/profiles/liang-xiao.html">Xiao Liang</a>, and
+<a href="https://engineering.tamu.edu/civil/profiles/liang-xiao.html">Xiao Liang</a>,
 <a href="https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html">Minghui Zheng</a>.
 
 **Robotics and Automation Letters (RA-L) (2025)**
@@ -63,6 +63,13 @@ source ~/catkin_ws/src/setup.bash
 rosrun simple_env main_test_MPNN.py
 ```
 
+# License
+This repository is released under the MIT license. See [LICENSE](LICENSE) for additional details.
+
+# Further Reading
+- [MPNet GitHub Repo](https://github.com/anthonysimeonov/baxter_moveit_experiments).
+- [MoveIt! Config for UR5e Manipulator with Robotiq Gripper](https://roboticscasual.com/ros-tutorial-how-to-create-a-moveit-config-for-the-ur5-and-a-gripper/)
+
 # Citation
 If you find this codebase useful in your research, please cite:
 
@@ -74,7 +81,3 @@ If you find this codebase useful in your research, please cite:
   year={2024}
 }
 ```
-
-# Further Reading
-- [MPNet GitHub Repo](https://github.com/anthonysimeonov/baxter_moveit_experiments).
-- [MoveIt! Config for UR5e Manipulator with Robotiq Gripper](https://roboticscasual.com/ros-tutorial-how-to-create-a-moveit-config-for-the-ur5-and-a-gripper/)
