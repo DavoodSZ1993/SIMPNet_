@@ -11,7 +11,11 @@
 <a href="https://engineering.tamu.edu/civil/profiles/liang-xiao.html">Xiao Liang</a>,
 <a href="https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html">Minghui Zheng</a>,
 
-
+<p align="center">
+img width="1000" src="./assets/02. SIMPNet-Structure.svg"
+<br>
+<em> Fig 1. Schematic of spatial-informed sampling heuristic within SIMPNet.</em>
+</p>
 
 This repository is the official implementation of SIMPNet: Spatial-informed Motion Planning Network.
 
