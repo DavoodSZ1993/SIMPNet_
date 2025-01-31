@@ -1,6 +1,6 @@
 # SIMPNet: Spatial-informed Motion Planning Network
 
-<a href="TBD"><strong>Project Page</strong></a>
+<a href="https://davoodsz1993.github.io/simpnet/"><strong>Project Page</strong></a>
   |
   <a href="https://arxiv.org/abs/2408.12831"><strong>arXiv</strong></a>
   |
