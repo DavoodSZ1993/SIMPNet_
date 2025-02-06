@@ -74,10 +74,11 @@ This repository is released under the MIT license. See [LICENSE](LICENSE) for ad
 If you find this codebase useful in your research, please cite:
 
 ```
-@article{soleymanzadeh2024simpnet,
+@article{soleymanzadeh2025simpnet,
   title={SIMPNet: Spatial-Informed Motion Planning Network},
   author={Soleymanzadeh, Davood and Liang, Xiao and Zheng, Minghui},
-  journal={arXiv preprint arXiv:2408.12831},
-  year={2024}
+  journal={IEEE Robotics and Automation Letters},
+  year={2025},
+  publisher={IEEE}
 }
 ```
